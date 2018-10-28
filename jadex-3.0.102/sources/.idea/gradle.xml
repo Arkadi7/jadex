@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/opt/gradle/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jadex-applib-bdi" />
+            <option value="$PROJECT_DIR$/jadex-applications-bdi" />
+            <option value="$PROJECT_DIR$/jadex-applications-bdiv3" />
+            <option value="$PROJECT_DIR$/jadex-applications-bpmn" />
+            <option value="$PROJECT_DIR$/jadex-applications-java8" />
+            <option value="$PROJECT_DIR$/jadex-applications-micro" />
+            <option value="$PROJECT_DIR$/jadex-applications-mixed" />
+            <option value="$PROJECT_DIR$/jadex-applications-web" />
+            <option value="$PROJECT_DIR$/jadex-bridge" />
+            <option value="$PROJECT_DIR$/jadex-commons" />
+            <option value="$PROJECT_DIR$/jadex-commons/jadex-commons-gui" />
+            <option value="$PROJECT_DIR$/jadex-commons/jadex-commons-security" />
+            <option value="$PROJECT_DIR$/jadex-distribution-minimal" />
+            <option value="$PROJECT_DIR$/jadex-distribution-standard" />
+            <option value="$PROJECT_DIR$/jadex-editor-bpmn" />
+            <option value="$PROJECT_DIR$/jadex-integration-test" />
+            <option value="$PROJECT_DIR$/jadex-javaparser" />
+            <option value="$PROJECT_DIR$/jadex-json" />
+            <option value="$PROJECT_DIR$/jadex-kernel-application" />
+            <option value="$PROJECT_DIR$/jadex-kernel-base" />
+            <option value="$PROJECT_DIR$/jadex-kernel-bdiv3" />
+            <option value="$PROJECT_DIR$/jadex-kernel-bpmn" />
+            <option value="$PROJECT_DIR$/jadex-kernel-component" />
+            <option value="$PROJECT_DIR$/jadex-kernel-extension-agr" />
+            <option value="$PROJECT_DIR$/jadex-kernel-extension-envsupport" />
+            <option value="$PROJECT_DIR$/jadex-kernel-extension-envsupport-opengl" />
+            <option value="$PROJECT_DIR$/jadex-kernel-micro" />
+            <option value="$PROJECT_DIR$/jadex-model-bpmn" />
+            <option value="$PROJECT_DIR$/jadex-platform" />
+            <option value="$PROJECT_DIR$/jadex-platform-standalone-launch" />
+            <option value="$PROJECT_DIR$/jadex-rules" />
+            <option value="$PROJECT_DIR$/jadex-rules-applications" />
+            <option value="$PROJECT_DIR$/jadex-rules-eca" />
+            <option value="$PROJECT_DIR$/jadex-rules-tools" />
+            <option value="$PROJECT_DIR$/jadex-runtimetools-swing" />
+            <option value="$PROJECT_DIR$/jadex-tools-base" />
+            <option value="$PROJECT_DIR$/jadex-tools-base-swing" />
+            <option value="$PROJECT_DIR$/jadex-tools-bdi" />
+            <option value="$PROJECT_DIR$/jadex-tools-benchmarks" />
+            <option value="$PROJECT_DIR$/jadex-tools-bpmn" />
+            <option value="$PROJECT_DIR$/jadex-tools-comanalyzer" />
+            <option value="$PROJECT_DIR$/jadex-xml" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
